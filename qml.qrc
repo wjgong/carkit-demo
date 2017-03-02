@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>images/logo_car.png</file>
+        <file>images/iconCamcorder.png</file>
+        <file>images/iconCompass.png</file>
+        <file>images/iconMessage.png</file>
+        <file>images/iconMusic.png</file>
+        <file>images/iconNavigator.png</file>
+        <file>images/iconPhone.png</file>
+        <file>images/iconRadio.png</file>
+        <file>images/iconSettings.png</file>
+        <file>images/iconWeather.png</file>
+        <file>i18n/carkit_zh.qm</file>
+        <file>content/camcorders.qml</file>
+        <file>content/weather.qml</file>
+        <file>content/compass.qml</file>
+        <file>content/music.qml</file>
+        <file>content/navigator.qml</file>
+        <file>content/radio.qml</file>
+        <file>content/message.qml</file>
+        <file>content/phone.qml</file>
+        <file>content/settings.qml</file>
+        <file>images/backButton.png</file>
+        <file>images/ssCamcorder.jpg</file>
+        <file>images/ssCompass.jpg</file>
+        <file>images/ssMusic.png</file>
+        <file>images/ssNavigator.png</file>
+        <file>images/ssPhone.jpg</file>
+        <file>images/ssRadio.jpg</file>
+        <file>images/ssSettings.png</file>
+        <file>images/ssWeather.jpg</file>
+        <file>images/ssMessage.png</file>
+        <file>images/logo_qt.png</file>
+    </qresource>
+</RCC>

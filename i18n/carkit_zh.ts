@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="zh_CN">
+<context>
+    <name>MainForm.ui</name>
+    <message>
+        <source>Camcorders</source>
+        <translation>行车记录仪</translation>
+    </message>
+    <message>
+        <source>Weather</source>
+        <translation>天气</translation>
+    </message>
+    <message>
+        <source>Compass</source>
+        <translation>指南针</translation>
+    </message>
+    <message>
+        <source>Music</source>
+        <translation>音乐</translation>
+    </message>
+    <message>
+        <source>Navigatior</source>
+        <translation>导航</translation>
+    </message>
+    <message>
+        <source>Radio</source>
+        <translation>收音机</translation>
+    </message>
+    <message>
+        <source>Message</source>
+        <translation>消息</translation>
+    </message>
+    <message>
+        <source>Phone</source>
+        <translation>电话</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>设置</translation>
+    </message>
+</context>
+</TS>
